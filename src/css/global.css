@@ -656,12 +656,8 @@ input:focus{
   height: 100vh;
 }
 
-.min-h-\[2px\]{
-  min-height: 2px;
-}
-
-.min-h-\[10px\]{
-  min-height: 10px;
+.min-h-\[40px\]{
+  min-height: 40px;
 }
 
 .w-16{
