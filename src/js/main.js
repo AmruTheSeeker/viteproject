@@ -27,3 +27,8 @@ form.addEventListener("keydown", (e)=>{
   }
 
 })
+
+const img = document.querySelector('.twitter');
+img.addEventListener('click', (event) => {
+  window.open('https://www.twitter.com', '_blank');
+});
