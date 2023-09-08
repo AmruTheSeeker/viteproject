@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ["Epiloque", "sans-serif"],
-        display: ["Pacifico", "sans-serif"],
+        display: ["Playfair", "sans-serif"],
       },
     },
   },
